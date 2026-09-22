@@ -77,6 +77,7 @@ linux-server-administration/
 ├── scripts/
 │   ├── backup.sh
 │   ├── health-check.sh
-│   └── system-info.sh
+│   ├── system-info.sh
+│   └── network-check.sh
 ├── .gitignore
 └── README.md
